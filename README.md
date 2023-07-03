@@ -1,5 +1,7 @@
 Welcome to the Yu-Gi-Oh! Deck Builder repository! In this project, my team and I have developed a dashboard that allows you to create your own personal deck based on your preferred monster card attributes. Using a dataset containing a large number of Yu-Gi-Oh! cards, complete with descriptions and technical characteristics, we have implemented an interactive platform to assist you in constructing your ideal deck.
 
+![image](https://github.com/DanieleFiorucci/data_drive_deck_building/assets/130229290/0f44fbf2-4428-4c2c-a06b-58a4fd28ddb3)
+
 **Features**
 
 *Attribute-based Deck Creation*: Our dashboard enables you to select your preferred monster card attribute, such as Fire, Water, Earth, Wind, Light, or Dark. Based on this attribute, the system will recommend magic and trap cards that synergize well with your chosen attribute.

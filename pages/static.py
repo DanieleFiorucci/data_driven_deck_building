@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu May  4 18:27:01 2023
-
-@author: leo
-"""
 
 # DASH 1 -Scatter Plot
 import dash_bootstrap_components as dbc

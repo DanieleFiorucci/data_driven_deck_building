@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu May  4 19:28:09 2023
-
-@author: leo
-"""
 
 # DASH 1 -Scatter Plot
 import dash_html_components as html

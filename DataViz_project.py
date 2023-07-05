@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Apr  5 11:14:40 2023
-
-@author: leo
-"""
 
 # importing the libraries
 import requests
@@ -204,8 +199,8 @@ df['type'] = df['type'].str.replace(pattern, '')
 
 df['type_short'] = df['type_short'].fillna(df['type'])
 
-#df.to_csv('/Users/leo/Documents/universita/Data Visualization/Project/yu-gi-oh.csv', index=False)
-#df_exploded.to_csv('/Users/leo/Documents/universita/Data Visualization/Project/df_exploded.csv', index=False)
+#df.to_csv('yu-gi-oh.csv', index=False)
+#df_exploded.to_csv('df_exploded.csv', index=False)
 
 df.to_csv('yu-gi-oh.csv', index=False)
 df_exploded.to_csv('df_exploded.csv', index=False)

@@ -10,6 +10,12 @@ Welcome to the Yu-Gi-Oh! Deck Builder repository! In this project, my team and I
 
 *Interactive Experience*: Our intuitive user interface provides a seamless and interactive experience. You can easily navigate through the available cards, filter them based on various criteria, and visualize the composition of your deck.
 
+**Data**
+
+The data has been retrieved from the API at the following URL: 
+'https://db.ygoprodeck.com/api/v7/cardinfo.php'
+
+
 **Getting Started**
 
 1 - Run the "Dataviz_project" file, which will download the data from the API, 
